@@ -36,3 +36,9 @@ colors:
 kramdown:
   auto_ids:  false
 
+###defalut
+defaults:
+  - scope:
+      path: "img/um/images"
+    values:
+      image: true
