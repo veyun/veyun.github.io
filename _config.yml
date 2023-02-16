@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "乐行电车通用说明书"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "请仔细阅读本使用说明书，本使用说明书包含安全事项，骑行前请仔细阅读说明书"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://veyun.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
