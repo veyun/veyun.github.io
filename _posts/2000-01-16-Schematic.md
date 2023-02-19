@@ -1,5 +1,5 @@
 ---
-title: “电气原理图"
+title: "电气原理图"
 bg: blue
 color: white
 fa-icon: bezier-curve
